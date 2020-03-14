@@ -21,7 +21,7 @@ the browser doesn't open, try typing in the address.
 
 You should see the menu list component in your browser:
 
-<img src="screenshot.png" alt="App Screenshot" title="App Screenshot" width="100" />
+<img src="component-screenshot.png" alt="App Screenshot" title="App Screenshot" width="100" />
 
 ## Usage
 
