@@ -56,7 +56,7 @@
     "@material-ui/icons": "^4.9.1",
     "@material-ui/pickers": "^3.2.10",
     "@types/enzyme": "^3.10.5",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "date-fns": "^2.10.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
